@@ -7,6 +7,7 @@ It shows my resume and what kind of work or websites i build in my career.
 
 
 
+![Web capture_6-12-2023_2085_samikshawankhade netlify app](https://github.com/samik1234/vite-prtflo/assets/82882143/d766d987-d323-4f1a-a1bb-90c583eae140)
 
 
 
