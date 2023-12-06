@@ -1,4 +1,5 @@
 My Personal portfolio website
+It shows my resume and what kind of work or websites i build in my career.
 
 
 
